@@ -6,6 +6,7 @@ __pycache__/
 
 # models saved
 models_saved/*
+submissions/*
 # pycharm
 .idea/
 
